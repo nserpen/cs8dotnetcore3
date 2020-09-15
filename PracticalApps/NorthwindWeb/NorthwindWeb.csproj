@@ -5,10 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include=
-      "..\NorthwindContextLib\NorthwindContextLib.csproj" />
-    <ProjectReference Include=
-      "..\NorthwindEmployees\NorthwindEmployees.csproj" />
+    <ProjectReference Include="..\NorthwindContextLib\NorthwindContextLib.csproj" />
+    <ProjectReference Include="..\NorthwindEmployees\NorthwindEmployees.csproj" />
   </ItemGroup>
 
 </Project>

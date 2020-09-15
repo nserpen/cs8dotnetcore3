@@ -6,8 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference 
-      Include="..\CryptographyLib\CryptographyLib.csproj" />
+    <ProjectReference Include="..\CryptographyLib\CryptographyLib.csproj" />
   </ItemGroup>
 
 </Project>
